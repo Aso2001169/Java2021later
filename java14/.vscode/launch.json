@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "exsample02.Main",
+            "projectName": "java14_706b96ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "example01.Main",
+            "projectName": "java14_706b96ff"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "",
+            "console": "integratedTerminal",
+            "encoding": "Shift_JIS"
+        }
+    ]
+}

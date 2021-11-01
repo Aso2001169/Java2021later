@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch RPGMain",
+            "request": "launch",
+            "mainClass": "RPGMain",
+            "projectName": "rpgsample_1f724052"
+        },
+        {
+            "type": "java",
+            "name": "Launch RPGMain",
+            "request": "launch",
+            "mainClass": "RPGMain",
+            "projectName": "rpgsample_38a77359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "",
+            "console": "integratedTerminal",
+            "encoding": "Shift_JIS"
+        }
+    ]
+}
